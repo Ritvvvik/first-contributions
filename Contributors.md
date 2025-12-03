@@ -54,6 +54,7 @@ scandi
 - [clement717](https://github.com/clement717)
 - [Satya-0611](https://github.com/Satya-0611)
   [Uttara Shah](https://guthub.com/UTTARASH)
+  [Ritvik](https://github.com/Ritvvvik)
   [RITVIK AND TRISHA](https://github.com/CITIZEN-OF-INDIA)
   [Vyas Sidhi](https://github.com/Sidhi-03)
 - [Ravi Raj Choudhary](https://github.com/ravirajchoudhary03)
